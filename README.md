@@ -1,4 +1,7 @@
 # Movie-Rating-
+
+https://drive.google.com/drive/u/1/folders/1mTfvlTTCCmCIA4WKpc8U5Vlr4nkLbHnb
+
 The dataset obtained from Rotten Tomatoes, consisting of ratings and reviews for over 15,000 movies, presents an opportunity for comprehensive analysis and valuable insights into the movie industry. With the dataset's extensive information on movie attributes, ratings, and audience feedback, several analysis questions and areas of exploration can be recommended:
 
 Distribution of films by rating and primary genre: Analyze the frequency and proportions of movies across different ratings and primary genres. This analysis would provide an understanding of the overall distribution of films based on ratings and genres.
